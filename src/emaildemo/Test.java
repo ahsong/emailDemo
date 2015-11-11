@@ -123,5 +123,5 @@ import java.awt.FlowLayout;
         String fileType = fileName.substring(fileName.indexOf('.')+1);
         ImageIO.write(bi, fileType, new File(fileName));
       } 
-    
+    // hi this is edit by Gary
     }
